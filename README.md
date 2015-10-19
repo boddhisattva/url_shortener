@@ -1,8 +1,6 @@
 # README
 
-[![Code Climate](https://codeclimate.com/github/boddhisattva/url_shortener/badges/gpa.svg)](https://codeclimate.com/github/boddhisattva/url_shortener)
-
-[![Test Coverage](https://codeclimate.com/github/boddhisattva/url_shortener/badges/coverage.svg)](https://codeclimate.com/github/boddhisattva/url_shortener/coverage)
+[![Code Climate](https://codeclimate.com/github/boddhisattva/url_shortener/badges/gpa.svg)](https://codeclimate.com/github/boddhisattva/url_shortener) [![Test Coverage](https://codeclimate.com/github/boddhisattva/url_shortener/badges/coverage.svg)](https://codeclimate.com/github/boddhisattva/url_shortener/coverage) [![Circle CI](https://circleci.com/gh/boddhisattva/url_shortener.svg?style=svg)](https://circleci.com/gh/boddhisattva/url_shortener)
 
 This is a basic URL Shortener app. This app also exposes an API to create a URL Shortener.
 
